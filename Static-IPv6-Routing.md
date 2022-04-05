@@ -1,5 +1,6 @@
 # Static IPv6 Routing
 
+![img](/simple-ipv6-routing.png "img")
 
 ## Configuration Router1
 
